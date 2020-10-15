@@ -26,3 +26,4 @@ Figure :- 1 guvcview USB camera stream at http://localhost:8008/vnc_lite.html
 
 <img src="https://raw.githubusercontent.com/bkjaya2020/novnc-guvcview/main/Screenshot%20from%202020-10-15%2022-23-21.png" alt="https://raw.githubusercontent.com/bkjaya2020/novnc-guvcview/main/Screenshot%20from%202020-10-15%2022-23-21.png" width="625" height="520">
 
+Figure :- 2 guvcview can be started using the Applications>shells>bash also
