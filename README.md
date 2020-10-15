@@ -20,6 +20,9 @@ On the Ubuntu terminal
 <code>xdg-open http://localhost:8008/vnc_lite.html</code>
 
 
-Figure :- 4 guvcview USB camera stream at http://localhost:8008/vnc_lite.html
+<img src="https://raw.githubusercontent.com/bkjaya2020/novnc-guvcview/main/Screenshot%20from%202020-10-15%2022-22-19.png" alt="https://raw.githubusercontent.com/bkjaya2020/novnc-guvcview/main/Screenshot%20from%202020-10-15%2022-22-19.png" width="625" height="520">
 
+Figure :- 1 guvcview USB camera stream at http://localhost:8008/vnc_lite.html
+
+<img src="https://raw.githubusercontent.com/bkjaya2020/novnc-guvcview/main/Screenshot%20from%202020-10-15%2022-23-21.png" alt="https://raw.githubusercontent.com/bkjaya2020/novnc-guvcview/main/Screenshot%20from%202020-10-15%2022-23-21.png" width="625" height="520">
 
